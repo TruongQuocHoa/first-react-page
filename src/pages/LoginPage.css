@@ -1,0 +1,33 @@
+.window{
+    background-color: #dcc6f9;
+    width: 100vw;
+    height: 100vh;
+}
+
+.login-body{
+    background-color: #FFF;
+    min-width: 50%;
+    min-height: 50%;
+    border-radius: 10px;
+    margin: auto;
+    padding: 50px;
+    box-shadow: 10px 10px 10px 10px #333
+}
+
+.form-login-container{
+    padding: 20px;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.login-background{
+    background-image: url(Sang.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 15%;
+    margin-left: 10px;
+}
+
+.social-btn{
+    border: 1px solid #000;
+}
